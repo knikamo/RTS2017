@@ -3,3 +3,9 @@
 
 # Ada Library Information
 *.ali
+
+# Executables
+lab1/part1/scheduler
+lab1/part2/watchdog
+lab1/part3/fifo
+lab1/part4/fifo_protected
